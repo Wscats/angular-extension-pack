@@ -2,7 +2,7 @@
     "name": "angular-extension-pack",
     "displayName": "Angular Extension Pack",
     "description": "🚚Popular VS Code extensions for Angular development.",
-    "version": "0.0.5",
+    "version": "0.0.6",
     "galleryBanner": {
         "color": "#58bc58",
         "theme": "dark"

@@ -14,6 +14,7 @@ A useful extension collection to start developing with Angular in Visual Studio 
 - [NPM](https://marketplace.visualstudio.com/items?itemName=eg2.vscode-npm-script) - Npm support for VS Code.
 - [Node Modules](https://marketplace.visualstudio.com/items?itemName=wscats.delete-node-modules) - ✂️ Simple extension for Visual Studio Code that allows you to quickly delete or search your project's node_modules directory.
 - [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Code formatter using prettier.
+
 ## Relevant Links
 
 - [Angular Extension Pack Github](https://github.com/Wscats/angular-extension-pack)
