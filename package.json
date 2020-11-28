@@ -35,11 +35,6 @@
         "vscode": "^1.51.0"
     },
     "categories": [
-        "Testing",
-        "Languages",
-        "Snippets",
-        "Formatters",
-        "Debuggers",
         "Extension Packs"
     ],
     "extensionPack": [
