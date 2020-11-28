@@ -2,7 +2,7 @@
     "name": "angular-extension-pack",
     "displayName": "Angular Extension Pack",
     "description": "🚚Popular VS Code extensions for Angular development.",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "galleryBanner": {
         "color": "#58bc58",
         "theme": "dark"
@@ -46,7 +46,7 @@
         "dbaeumer.vscode-eslint",
         "eamodio.gitlens",
         "eg2.vscode-npm-script",
-        "wscats.delete-node-module",
+        "wscats.delete-node-modules",
         "esbenp.prettier-vscode"
     ]
 }

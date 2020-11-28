@@ -12,7 +12,7 @@ A useful extension collection to start developing with Angular in Visual Studio 
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - Integrates ESLint JavaScript into VS Code.
 - [GitLens — Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) - Supercharge the Git capabilities built into Visual Studio Code — Visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more.
 - [NPM](https://marketplace.visualstudio.com/items?itemName=eg2.vscode-npm-script) - Npm support for VS Code.
-- [Node Modules](https://marketplace.visualstudio.com/items?itemName=wscats.delete-node-module) - ✂️ Simple extension for Visual Studio Code that allows you to quickly delete or search your project's node_modules directory.
+- [Node Modules](https://marketplace.visualstudio.com/items?itemName=wscats.delete-node-modules) - ✂️ Simple extension for Visual Studio Code that allows you to quickly delete or search your project's node_modules directory.
 - [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Code formatter using prettier.
 ## Relevant Links
 
