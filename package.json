@@ -1,0 +1,53 @@
+{
+    "name": "angular-extension-pack",
+    "displayName": "Angular Extension Pack",
+    "description": "🚚Popular VS Code extensions for Angular development.",
+    "version": "0.0.3",
+    "galleryBanner": {
+        "color": "#58bc58",
+        "theme": "dark"
+    },
+    "publisher": "Wscats",
+    "icon": "icon.png",
+    "repository": {
+        "url": "https://github.com/Wscats/angular-extension-pack"
+    },
+    "homepage": "https://github.com/Wscats/angular-extension-pack",
+    "bugs": {
+        "url": "https://github.com/Wscats/angular-extension-pack/issues"
+    },
+    "keywords": [
+        "angular",
+        "angularjs",
+        "extension pack",
+        "angular extension collection",
+        "eslint",
+        "javascript",
+        "format",
+        "vutur",
+        "snippets",
+        "intellisense",
+        "git"
+    ],
+    "scripts": {
+        "build": "vsce package"
+    },
+    "engines": {
+        "vscode": "^1.51.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "angular.ng-template",
+        "johnpapa.angular-essentials",
+        "mikael.angular-beastcode",
+        "msjsdiag.debugger-for-chrome",
+        "wscats.search",
+        "dbaeumer.vscode-eslint",
+        "eamodio.gitlens",
+        "eg2.vscode-npm-script",
+        "wscats.delete-node-module",
+        "esbenp.prettier-vscode"
+    ]
+}
