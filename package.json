@@ -2,7 +2,7 @@
     "name": "angular-extension-pack",
     "displayName": "Angular Extension Pack",
     "description": "🚚Popular VS Code extensions for Angular development.",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "galleryBanner": {
         "color": "#58bc58",
         "theme": "dark"
@@ -24,7 +24,6 @@
         "eslint",
         "javascript",
         "format",
-        "vutur",
         "snippets",
         "intellisense",
         "git"
@@ -36,6 +35,11 @@
         "vscode": "^1.51.0"
     },
     "categories": [
+        "Testing",
+        "Languages",
+        "Snippets",
+        "Formatters",
+        "Debuggers",
         "Extension Packs"
     ],
     "extensionPack": [
